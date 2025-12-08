@@ -1,22 +1,22 @@
 # links.jhale.dev
 
-**Important TODOs for today**: https://app.todoist.com/app/filter/priorities-2356890910
+[**Important TODOs for today**](https://app.todoist.com/app/filter/priorities-2356890910)
 
 **Spanish Translations**:
- - _Node.js_: https://crowdin.com/project/nodejs-web/es-ES
- - _Python_: 
- https://hosted.weblate.org/translate/pypa/packaging-python-org/es/?q=state:%3Ctranslated
+ - [Node.js](https://crowdin.com/project/nodejs-web/es-ES)
+ - [Python](https://hosted.weblate.org/translate/pypa/packaging-python-org/es/?q=state:%3Ctranslated)
+ 
 
 **General Processing**:
- - _TODOs_: https://app.todoist.com/app/filter/unprocessed-2330350754
- - _RSS Feeds_: https://ttrss.jhale.dev
- - _Gmail_: https://mail.google.com/mail/u/0/#inbox
- - _Imbox_: https://app.hey.com/
- - _Texts_: https://messages.google.com/web/conversations
+ - [TODOs](https://app.todoist.com/app/filter/unprocessed-2330350754)
+ - [RSS Feeds](https://ttrss.jhale.dev)
+ - [Gmail](https://mail.google.com/mail/u/0/#inbox)
+ - [Imbox](https://app.hey.com/)
+ - [Texts](https://messages.google.com/web/conversations)
 
 **Other Low Hanging Fruit**
- - _TODOs_: https://app.todoist.com/app/label/low-hanging-fruit-2177846191
- - _Open Pull Requests_: https://github.com/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+author%3A%40me+archived%3Afalse
+ - [TODOs](https://app.todoist.com/app/label/low-hanging-fruit-2177846191)
+ - [Open Pull Requests](https://github.com/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+author%3A%40me+archived%3Afalse)
 
 <!-- ## Welcome to GitHub Pages
 
