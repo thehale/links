@@ -18,6 +18,12 @@
  - [TODOs](https://app.todoist.com/app/label/low-hanging-fruit-2177846191)
  - [Open Pull Requests](https://github.com/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+author%3A%40me+archived%3Afalse)
 
+<script>
+const urls = Array.from(document.querySelectorAll("#main_content a")).map(a => a.href)
+const randomURL = urls[Math.floor(Math.random() * urls.length)]
+setTimeout(() => window.location = randomURL, 5000)
+</script>
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thehale/links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
