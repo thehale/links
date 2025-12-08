@@ -1,7 +1,5 @@
 # links.jhale.dev
 
-<div id="links">
-
 **Important TODOs for today**: https://app.todoist.com/app/filter/priorities-2356890910
 
 **Spanish Translations**:
@@ -19,8 +17,6 @@
 **Other Low Hanging Fruit**
  - _TODOs_: https://app.todoist.com/app/label/low-hanging-fruit-2177846191
  - _Open Pull Requests_: https://github.com/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+author%3A%40me+archived%3Afalse
-
-</div>
 
 <!-- ## Welcome to GitHub Pages
 
