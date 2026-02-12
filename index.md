@@ -21,7 +21,7 @@
 <script>
 const urls = Array.from(document.querySelectorAll("#main_content a")).map(a => a.href)
 const randomURL = urls[Math.floor(Math.random() * urls.length)]
-setTimeout(() => window.location = randomURL, 5000)
+setTimeout(() => window.location = randomURL, 0)
 </script>
 
 <!-- ## Welcome to GitHub Pages
